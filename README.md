@@ -40,4 +40,3 @@
      ```bash
      python mpitapp.py
      ```
-```
