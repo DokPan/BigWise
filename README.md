@@ -19,7 +19,7 @@
 - **train.cvs**: Файл для обучения модели.
 - **TryCatchUs_predict.cvs**: Обработаный файл моделью.
 - **Защита.pptx**: Презентация проекта.
-- https://drive.google.com/file/d/17rwQWBC_XSM3cZ4ocDaIm5zm2mhlEGcE/view?usp=sharing : Ссылка на видео скранкаста.
+- https://drive.google.com/file/d/17rwQWBC_XSM3cZ4ocDaIm5zm2mhlEGcE/view?usp=sharing : Ссылка на видео скринкаста.
 
 Этот проект использует виртуальное окружение Python и зависимости для работы. Следуйте этим шагам для установки и запуска приложения.
 
