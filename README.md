@@ -15,10 +15,11 @@
 ### Корневая директория проекта
 - **requirements.txt**: Файл, содержащий список необходимых для работы библиотеки.
 - **mpitapp.py**: Главный файл приложения, содержащий логику работы системы.
+- **price_recommender_model.pkl**: Файл с обученной моделью.
 - **train.cvs**: Файл для обучения модели.
 - **TryCatchUs_predict.cvs**: Обработаный файл моделью.
 - **Защита.pptx**: Презентация проекта.
-- https://drive.google.com/file/d/17rwQWBC_XSM3cZ4ocDaIm5zm2mhlEGcE/view?usp=sharing : ссылка на видео скранкаста.
+- https://drive.google.com/file/d/17rwQWBC_XSM3cZ4ocDaIm5zm2mhlEGcE/view?usp=sharing : Ссылка на видео скранкаста.
 
 Этот проект использует виртуальное окружение Python и зависимости для работы. Следуйте этим шагам для установки и запуска приложения.
 
